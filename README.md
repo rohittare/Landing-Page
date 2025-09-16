@@ -5,15 +5,13 @@
 
 - 🌱 I have a good command over **MERN Stack / Nextjs**, as well as **DSA**
 
-- 👨‍💻 LeetCode : [https://leetcode.com/u/Rohittare/]((https://leetcode.com/u/Rohittare/))
-
 - 📫 How to reach me: **tarerohit.r@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prajyot-tayde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajyot-tayde" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prajyot_tayde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prajyot_tayde" height="30" width="40" /></a>
-<a href="https://twitter.com/prajyot_tayde" target="blank"><img align="center" src="https://raw.githubusercontent.com/ali-han/Twitter-x-icon-logo/main/dark/Twitter%20X%20Icon.svg" alt="prajyot_tayde" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-tare-11788728a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohit" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Rohittare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit" height="30" width="40" /></a>
+<a target="blank"><img align="center" src="https://raw.githubusercontent.com/ali-han/Twitter-x-icon-logo/main/dark/Twitter%20X%20Icon.svg" alt="prajyot_tayde" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
